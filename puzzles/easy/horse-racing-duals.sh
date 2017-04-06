@@ -1,6 +1,8 @@
 # https://www.codingame.com/ide/puzzle/horse-racing-duals
 # Xavier Morel - 2016-03-12
 
+# WIP: Only passing tests up to 55% : big performance issues, obviously...
+
 read N
 for ((i=0; i<N; i++)); do
     read Pi

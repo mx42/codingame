@@ -1,4 +1,4 @@
-// https://www.codingame.com/training/easy/ascii-art
+// https://www.codingame.com/ide/puzzle/ascii-art
 // Xavier Morel - 2014-10-16
 
 #include <iostream>
